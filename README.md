@@ -1,4 +1,4 @@
-# Puzzle-game-in-Java-Swing
+# Puzzle Game 
 Sources from the ZetCode's Puzzle game in Java Swing
 
 http://zetcode.com/javagames/puzzle/
