@@ -1,8 +1,4 @@
 # Puzzle Game 
-Sources from the ZetCode's Puzzle game in Java Swing
 
-http://zetcode.com/javagames/puzzle/
-
-![Puzzle game screenshot](puzzle.png)
-
-Available under 2-Clause BSD License https://opensource.org/licenses/BSD-2-Clause
+Interactive Puzzles updated weekly by #Harshal-poojari
+puzzle.jpg
