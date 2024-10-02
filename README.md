@@ -1,4 +1,5 @@
 # Puzzle Game 
 
-Interactive Puzzles updated weekly by #Harshal-poojari
-puzzle.jpg
+Interactive Puzzles updated weekly 
+
+![Puzzle image](puzzle.jpg)
