@@ -2,4 +2,4 @@
 
 Interactive Puzzles updated weekly 
 
-![Puzzle image](puzzle.jpg)
+![Puzzle image](puzzle.png)
